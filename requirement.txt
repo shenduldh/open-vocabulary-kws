@@ -1,0 +1,3 @@
+graphviz
+gradio
+funasr==1.1.16
